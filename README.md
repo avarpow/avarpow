@@ -11,6 +11,15 @@
 
 ⏱ Weekly coding time
 <!--START_SECTION:waka-->
+```text
+Week: 14 November, 2020 - 21 November, 2020
+
+C++        10 hrs 58 mins  ████████████████████▓░░░░   83.00 % 
+Verilog    1 hr 43 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.07 % 
+Text       12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.54 % 
+Markdown   11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.50 % 
+Other      6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.78 % 
+```
 <!--END_SECTION:waka-->
 
 [![avarpow's github stats](https://github-readme-stats.vercel.app/api?username=avarpow&count_private=true&show_icons=true&hide=issues&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
