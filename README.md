@@ -12,13 +12,13 @@
 ⏱ Weekly coding time
 <!--START_SECTION:waka-->
 ```text
-Week: 14 December, 2020 - 21 December, 2020
+Week: 15 December, 2020 - 22 December, 2020
 
-C++        5 hrs 2 mins    ███████████▒░░░░░░░░░░░░░   44.88 % 
-Verilog    2 hrs 50 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.38 % 
-Markdown   2 hrs 4 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.43 % 
-Other      21 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.13 % 
-Text       20 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.98 % 
+C++        8 hrs 1 min     ██████████████▒░░░░░░░░░░   57.00 % 
+Verilog    2 hrs 43 mins   ████▓░░░░░░░░░░░░░░░░░░░░   19.30 % 
+Markdown   2 hrs 4 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.68 % 
+Other      25 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.98 % 
+Text       24 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
 ```
 <!--END_SECTION:waka-->
 
