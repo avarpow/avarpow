@@ -12,7 +12,7 @@
 ⏱ Weekly coding time
 <!--START_SECTION:waka-->
 ```text
-Week: 30 December, 2020 - 06 January, 2021
+Week: 31 December, 2020 - 07 January, 2021
 
 Verilog    4 hrs 56 mins   ████████████████████░░░░░   80.57 % 
 Markdown   1 hr            ████░░░░░░░░░░░░░░░░░░░░░   16.54 % 
