@@ -12,13 +12,13 @@
 ⏱ Weekly coding time
 <!--START_SECTION:waka-->
 ```text
-Week: 02 January, 2021 - 09 January, 2021
+Week: 03 January, 2021 - 10 January, 2021
 
-Verilog      5 hrs 1 min     ████████████████░░░░░░░░░   63.68 % 
-C++          2 hrs 13 mins   ███████░░░░░░░░░░░░░░░░░░   28.12 % 
-Markdown     23 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.88 % 
-JSON         9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.11 % 
-Git Config   4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.93 % 
+C++          5 hrs 30 mins   █████████████▓░░░░░░░░░░░   54.24 % 
+Verilog      4 hrs 5 mins    ██████████░░░░░░░░░░░░░░░   40.26 % 
+Python       13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.25 % 
+JSON         9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.64 % 
+Git Config   8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.39 % 
 ```
 <!--END_SECTION:waka-->
 
