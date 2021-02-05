@@ -12,13 +12,13 @@
 ⏱ Weekly coding time
 <!--START_SECTION:waka-->
 ```text
-Week: 27 January, 2021 - 03 February, 2021
+Week: 28 January, 2021 - 04 February, 2021
 
-C++        6 hrs 50 mins   █████████████▒░░░░░░░░░░░   53.74 % 
-YAML       2 hrs 44 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.56 % 
-Markdown   59 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.82 % 
-TeX        47 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.24 % 
-Bash       35 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.68 % 
+C++        5 hrs 56 mins   ████████████▒░░░░░░░░░░░░   48.79 % 
+YAML       2 hrs 44 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.55 % 
+Markdown   1 hr 9 mins     ██▒░░░░░░░░░░░░░░░░░░░░░░   09.52 % 
+TeX        58 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.01 % 
+Bash       35 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.90 % 
 ```
 <!--END_SECTION:waka-->
 
