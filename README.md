@@ -12,7 +12,7 @@
 ⏱ Weekly coding time
 <!--START_SECTION:waka-->
 ```text
-Week: 02 February, 2021 - 09 February, 2021
+Week: 03 February, 2021 - 10 February, 2021
 
 Markdown   9 hrs 51 mins   ████████████████▓░░░░░░░░   66.62 % 
 Python     3 hrs 53 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.28 % 
