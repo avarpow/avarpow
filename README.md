@@ -12,13 +12,13 @@
 ⏱ Weekly coding time
 <!--START_SECTION:waka-->
 ```text
-Week: 04 February, 2021 - 11 February, 2021
+Week: 05 February, 2021 - 12 February, 2021
 
-Markdown   9 hrs 13 mins   ████████████████▒░░░░░░░░   65.96 % 
-Python     3 hrs 53 mins   ███████░░░░░░░░░░░░░░░░░░   27.82 % 
-TeX        25 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.08 % 
-CSV        13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.64 % 
-Text       11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.38 % 
+Markdown   7 hrs 19 mins   █████████████▓░░░░░░░░░░░   55.12 % 
+Python     3 hrs 53 mins   ███████▒░░░░░░░░░░░░░░░░░   29.29 % 
+C++        1 hr 11 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.99 % 
+TeX        25 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.24 % 
+CSV        13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.73 % 
 ```
 <!--END_SECTION:waka-->
 
