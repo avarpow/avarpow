@@ -12,12 +12,13 @@
 ⏱ Weekly coding time
 <!--START_SECTION:waka-->
 ```text
-Week: 09 February, 2021 - 16 February, 2021
+Week: 10 February, 2021 - 17 February, 2021
 
-C++        4 hrs 40 mins   ██████████████████▓░░░░░░   74.29 % 
-Rust       1 hr 13 mins    █████░░░░░░░░░░░░░░░░░░░░   19.42 % 
-Markdown   19 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.25 % 
-TOML       1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 % 
+C++        5 hrs 39 mins   ███████████████▒░░░░░░░░░   61.18 % 
+Rust       2 hrs 57 mins   ████████░░░░░░░░░░░░░░░░░   31.93 % 
+Markdown   26 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.83 % 
+TOML       7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.32 % 
+Other      2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
 ```
 <!--END_SECTION:waka-->
 
