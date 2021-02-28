@@ -12,12 +12,11 @@
 ⏱ Weekly coding time
 <!--START_SECTION:waka-->
 ```text
-Week: 19 February, 2021 - 26 February, 2021
+Week: 20 February, 2021 - 27 February, 2021
 
-Rust       1 hr 14 mins    ███████████████░░░░░░░░░░   60.17 % 
-Markdown   22 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.09 % 
-Go         16 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.54 % 
-NASM       10 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.19 % 
+Rust       46 mins         █████████████████▒░░░░░░░   69.21 % 
+Go         16 mins         ██████▒░░░░░░░░░░░░░░░░░░   24.73 % 
+Markdown   3 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.86 % 
 ```
 <!--END_SECTION:waka-->
 
