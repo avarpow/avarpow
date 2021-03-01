@@ -12,7 +12,7 @@
 ⏱ Weekly coding time
 <!--START_SECTION:waka-->
 ```text
-Week: 20 February, 2021 - 27 February, 2021
+Week: 21 February, 2021 - 28 February, 2021
 
 Rust       46 mins         █████████████████▒░░░░░░░   69.21 % 
 Go         16 mins         ██████▒░░░░░░░░░░░░░░░░░░   24.73 % 
