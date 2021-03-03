@@ -12,7 +12,7 @@
 ⏱ Weekly coding time
 <!--START_SECTION:waka-->
 ```text
-Week: 22 February, 2021 - 01 March, 2021
+Week: 23 February, 2021 - 02 March, 2021
 
 Rust       46 mins         ███████████████████████░░   91.95 % 
 Markdown   3 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.79 % 
