@@ -12,10 +12,10 @@
 ⏱ Weekly coding time
 <!--START_SECTION:waka-->
 ```text
-Week: 05 March, 2021 - 12 March, 2021
+Week: 06 March, 2021 - 13 March, 2021
 
-C++     1 hr 38 mins    ███████████████████████░░   91.53 % 
-Text    8 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.35 % 
+Text    8 mins          █████████████████░░░░░░░░   68.23 % 
+C++     4 mins          ███████▓░░░░░░░░░░░░░░░░░   30.76 % 
 ```
 <!--END_SECTION:waka-->
 
