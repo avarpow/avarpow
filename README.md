@@ -12,13 +12,13 @@
 ⏱ Weekly coding time
 <!--START_SECTION:waka-->
 ```text
-Week: 04 April, 2021 - 11 April, 2021
+Week: 05 April, 2021 - 12 April, 2021
 
-C            4 hrs 22 mins   ████████▒░░░░░░░░░░░░░░░░   32.94 % 
-JavaScript   4 hrs 15 mins   ████████░░░░░░░░░░░░░░░░░   32.07 % 
-Python       2 hrs 32 mins   ████▓░░░░░░░░░░░░░░░░░░░░   19.14 % 
-JSON         39 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.95 % 
-GAS          32 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.11 % 
+JavaScript   4 hrs 15 mins   ████████░░░░░░░░░░░░░░░░░   32.54 % 
+C            4 hrs 11 mins   ████████░░░░░░░░░░░░░░░░░   32.03 % 
+Python       2 hrs 31 mins   █████░░░░░░░░░░░░░░░░░░░░   19.34 % 
+JSON         39 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.02 % 
+GAS          32 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
 ```
 <!--END_SECTION:waka-->
 
