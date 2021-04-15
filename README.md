@@ -12,7 +12,7 @@
 ⏱ Weekly coding time
 <!--START_SECTION:waka-->
 ```text
-Week: 06 April, 2021 - 13 April, 2021
+Week: 07 April, 2021 - 14 April, 2021
 
 JavaScript   4 hrs 15 mins   █████████▒░░░░░░░░░░░░░░░   36.84 % 
 Python       1 hr 53 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.32 % 
