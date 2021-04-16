@@ -12,13 +12,13 @@
 ⏱ Weekly coding time
 <!--START_SECTION:waka-->
 ```text
-Week: 07 April, 2021 - 14 April, 2021
+Week: 08 April, 2021 - 15 April, 2021
 
-JavaScript   4 hrs 15 mins   █████████▒░░░░░░░░░░░░░░░   36.84 % 
-Python       1 hr 53 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.32 % 
-Makefile     59 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.61 % 
-NASM         57 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.29 % 
-Rust         55 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.01 % 
+JavaScript   4 hrs 15 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.06 % 
+C++          3 hrs 27 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.15 % 
+NASM         2 hrs 19 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.20 % 
+Python       1 hr 53 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.54 % 
+Makefile     1 hr 18 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.98 % 
 ```
 <!--END_SECTION:waka-->
 
