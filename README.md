@@ -12,10 +12,7 @@
 ⏱ Weekly coding time
 <!--START_SECTION:waka-->
 ```text
-Week: 08 May, 2021 - 15 May, 2021
-
-C     9 mins          █████████████▓░░░░░░░░░░░   54.23 % 
-C++   8 mins          ███████████▒░░░░░░░░░░░░░   45.77 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
