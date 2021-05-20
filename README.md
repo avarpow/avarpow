@@ -12,7 +12,7 @@
 ⏱ Weekly coding time
 <!--START_SECTION:waka-->
 ```text
-Week: 11 May, 2021 - 18 May, 2021
+Week: 12 May, 2021 - 19 May, 2021
 
 C      31 mins         ███████████████████████▒░   93.26 % 
 Rust   2 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.74 % 
