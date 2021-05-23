@@ -12,7 +12,7 @@
 ⏱ Weekly coding time
 <!--START_SECTION:waka-->
 ```text
-Week: 14 May, 2021 - 21 May, 2021
+Week: 15 May, 2021 - 22 May, 2021
 
 Rust       1 hr 27 mins    ██████████▒░░░░░░░░░░░░░░   40.95 % 
 TOML       46 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.85 % 
