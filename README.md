@@ -12,7 +12,7 @@
 ⏱ Weekly coding time
 <!--START_SECTION:waka-->
 ```text
-Week: 21 May, 2021 - 28 May, 2021
+Week: 22 May, 2021 - 29 May, 2021
 
 C++        6 hrs 4 mins    ████████████████▒░░░░░░░░   65.81 % 
 Assembly   1 hr 43 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.73 % 
