@@ -12,12 +12,10 @@
 ⏱ Weekly coding time
 <!--START_SECTION:waka-->
 ```text
-Week: 29 May, 2021 - 05 June, 2021
+Week: 30 May, 2021 - 06 June, 2021
 
-Rust       11 mins         █████████▓░░░░░░░░░░░░░░░   38.87 % 
-C          9 mins          ████████░░░░░░░░░░░░░░░░░   31.67 % 
-Markdown   7 mins          ██████░░░░░░░░░░░░░░░░░░░   24.40 % 
-TOML       1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   04.51 % 
+C          9 mins          ██████████████░░░░░░░░░░░   56.12 % 
+Markdown   7 mins          ██████████▓░░░░░░░░░░░░░░   43.23 % 
 ```
 <!--END_SECTION:waka-->
 
