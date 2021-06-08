@@ -12,10 +12,11 @@
 ⏱ Weekly coding time
 <!--START_SECTION:waka-->
 ```text
-Week: 30 May, 2021 - 06 June, 2021
+Week: 31 May, 2021 - 07 June, 2021
 
-C          9 mins          ██████████████░░░░░░░░░░░   56.12 % 
-Markdown   7 mins          ██████████▓░░░░░░░░░░░░░░   43.23 % 
+C++        3 hrs 41 mins   ██████████████████████▓░░   90.40 % 
+C          15 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.31 % 
+Markdown   7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.87 % 
 ```
 <!--END_SECTION:waka-->
 
