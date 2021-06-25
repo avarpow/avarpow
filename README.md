@@ -12,13 +12,12 @@
 ⏱ Weekly coding time
 <!--START_SECTION:waka-->
 ```text
-Week: 17 June, 2021 - 23 June, 2021
+Week: 18 June, 2021 - 24 June, 2021
 
-C++           8 hrs 4 mins    █████████████████▒░░░░░░░   68.85 % 
-Assembly      2 hrs 25 mins   █████▒░░░░░░░░░░░░░░░░░░░   20.75 % 
-C             58 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.35 % 
-Objective-C   12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.77 % 
-Makefile      1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
+C++           8 hrs 2 mins    ███████████████████░░░░░░   75.65 % 
+Assembly      1 hr 32 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.54 % 
+C             50 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.86 % 
+Objective-C   12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.94 % 
 ```
 <!--END_SECTION:waka-->
 
