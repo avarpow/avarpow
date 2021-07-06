@@ -12,11 +12,11 @@
 ⏱ Weekly coding time
 <!--START_SECTION:waka-->
 ```text
-Week: 28 June, 2021 - 04 July, 2021
+Week: 29 June, 2021 - 05 July, 2021
 
-C++        2 hrs 41 mins   ████████████████████░░░░░   79.99 % 
-Assembly   34 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.07 % 
-C          5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
+C++        1 hr 15 mins    ████████████████▒░░░░░░░░   65.30 % 
+Assembly   34 mins         ███████▒░░░░░░░░░░░░░░░░░   29.75 % 
+C          5 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.95 % 
 ```
 <!--END_SECTION:waka-->
 
