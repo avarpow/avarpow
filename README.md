@@ -12,11 +12,7 @@
 ⏱ Weekly coding time
 <!--START_SECTION:waka-->
 ```text
-Week: 29 June, 2021 - 05 July, 2021
-
-C++        1 hr 15 mins    ████████████████▒░░░░░░░░   65.30 % 
-Assembly   34 mins         ███████▒░░░░░░░░░░░░░░░░░   29.75 % 
-C          5 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.95 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
