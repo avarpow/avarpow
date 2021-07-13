@@ -12,7 +12,9 @@
 ⏱ Weekly coding time
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 06 July, 2021 - 12 July, 2021
+
+C       40 mins         ████████████████████████▒   97.50 % 
 ```
 <!--END_SECTION:waka-->
 
