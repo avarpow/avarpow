@@ -12,7 +12,7 @@
 ⏱ Weekly coding time
 <!--START_SECTION:waka-->
 ```text
-Week: 07 July, 2021 - 13 July, 2021
+Week: 08 July, 2021 - 14 July, 2021
 
 C       40 mins         ████████████████████████▒   97.50 % 
 ```
