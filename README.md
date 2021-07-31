@@ -12,13 +12,13 @@
 ⏱ Weekly coding time
 <!--START_SECTION:waka-->
 ```text
-Week: 23 July, 2021 - 29 July, 2021
+Week: 24 July, 2021 - 30 July, 2021
 
-C             14 hrs 26 mins  ████████████████████▒░░░░   81.56 % 
-Markdown      1 hr 57 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   11.10 % 
-Objective-C   49 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.65 % 
-Git Config    10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.97 % 
-Batchfile     7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.72 % 
+C             16 hrs 17 mins  ████████████████████▓░░░░   83.28 % 
+Markdown      1 hr 57 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.04 % 
+Objective-C   49 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.25 % 
+Git Config    10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.88 % 
+Batchfile     7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 % 
 ```
 <!--END_SECTION:waka-->
 
