@@ -12,12 +12,12 @@
 ⏱ Weekly coding time
 <!--START_SECTION:waka-->
 ```text
-Week: 30 July, 2021 - 05 August, 2021
+Week: 31 July, 2021 - 06 August, 2021
 
-C             9 hrs 53 mins   ████████████████████████▒   96.88 % 
-Git Config    11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.85 % 
-Markdown      3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 % 
-Other         3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
+C            7 hrs 37 mins   ████████████████████████░   96.08 % 
+Git Config   11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.38 % 
+Markdown     3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.77 % 
+Other        3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.76 % 
 ```
 <!--END_SECTION:waka-->
 
