@@ -12,12 +12,10 @@
 ⏱ Weekly coding time
 <!--START_SECTION:waka-->
 ```text
-Week: 02 August, 2021 - 08 August, 2021
+Week: 03 August, 2021 - 09 August, 2021
 
-C            4 hrs 51 mins   ████████████████████████░   95.59 % 
-Markdown     6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.08 % 
-TOML         4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.42 % 
-Other        2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.87 % 
+TOML       4 mins          ███████████████░░░░░░░░░░   60.47 % 
+Markdown   2 mins          █████████▒░░░░░░░░░░░░░░░   37.76 % 
 ```
 <!--END_SECTION:waka-->
 
