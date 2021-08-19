@@ -12,9 +12,9 @@
 ⏱ Weekly coding time
 <!--START_SECTION:waka-->
 ```text
-Week: 11 August, 2021 - 17 August, 2021
+Week: 12 August, 2021 - 18 August, 2021
 
-C++        4 mins          ███████████████████▓░░░░░   79.15 % 
+C++        3 mins          ███████████████████▓░░░░░   78.98 % 
 ```
 <!--END_SECTION:waka-->
 
