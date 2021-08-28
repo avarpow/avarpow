@@ -12,9 +12,7 @@
 ⏱ Weekly coding time
 <!--START_SECTION:waka-->
 ```text
-Week: 20 August, 2021 - 26 August, 2021
-
-
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
