@@ -12,9 +12,7 @@
 ⏱ Weekly coding time
 <!--START_SECTION:waka-->
 ```text
-Week: 30 August, 2021 - 05 September, 2021
-
-PowerShell   6 mins          ██████████████████████▓░░   90.24 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
