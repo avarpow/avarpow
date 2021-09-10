@@ -12,9 +12,10 @@
 ⏱ Weekly coding time
 <!--START_SECTION:waka-->
 ```text
-Week: 02 September, 2021 - 08 September, 2021
+Week: 03 September, 2021 - 09 September, 2021
 
-Other   11 mins         █████████████████████████   100.00 % 
+C++     34 mins         ██████████████████▓░░░░░░   74.90 % 
+Other   11 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.10 % 
 ```
 <!--END_SECTION:waka-->
 
