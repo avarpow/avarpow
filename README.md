@@ -12,12 +12,11 @@
 ⏱ Weekly coding time
 <!--START_SECTION:waka-->
 ```text
-Week: 15 September, 2021 - 21 September, 2021
+Week: 16 September, 2021 - 22 September, 2021
 
-C            1 hr 42 mins    ███████████████████████▓░   94.06 % 
-Git Config   2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.34 % 
-Batchfile    2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.91 % 
-C++          1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.23 % 
+C            1 hr 42 mins    ████████████████████████░   95.57 % 
+Git Config   2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.38 % 
+Batchfile    2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.94 % 
 ```
 <!--END_SECTION:waka-->
 
