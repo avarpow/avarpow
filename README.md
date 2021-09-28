@@ -12,7 +12,7 @@
 ⏱ Weekly coding time
 <!--START_SECTION:waka-->
 ```text
-Week: 20 September, 2021 - 26 September, 2021
+Week: 21 September, 2021 - 27 September, 2021
 
 Other      1 hr 23 mins    ████████████████████▒░░░░   81.58 % 
 Python     14 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.91 % 
