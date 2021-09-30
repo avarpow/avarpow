@@ -12,13 +12,13 @@
 ⏱ Weekly coding time
 <!--START_SECTION:waka-->
 ```text
-Week: 22 September, 2021 - 28 September, 2021
+Week: 23 September, 2021 - 29 September, 2021
 
-Other      1 hr 23 mins    ████████████████████▒░░░░   81.57 % 
-Python     14 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.92 % 
-Text       1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.83 % 
-Markdown   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.60 % 
-CSV        1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.08 % 
+C++        2 hrs 29 mins   ██████████████▓░░░░░░░░░░   59.33 % 
+Other      1 hr 23 mins    ████████▒░░░░░░░░░░░░░░░░   33.18 % 
+Python     14 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.66 % 
+Text       1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.74 % 
+Markdown   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 % 
 ```
 <!--END_SECTION:waka-->
 
