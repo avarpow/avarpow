@@ -12,7 +12,7 @@
 ⏱ Weekly coding time
 <!--START_SECTION:waka-->
 ```text
-Week: 20 October, 2021 - 26 October, 2021
+Week: 21 October, 2021 - 27 October, 2021
 
 C++        2 hrs 28 mins   █████████▒░░░░░░░░░░░░░░░   37.48 % 
 Other      1 hr 21 mins    █████░░░░░░░░░░░░░░░░░░░░   20.45 % 
