@@ -12,11 +12,11 @@
 ⏱ Weekly coding time
 <!--START_SECTION:waka-->
 ```text
-Week: 29 October, 2021 - 04 November, 2021
+Week: 30 October, 2021 - 05 November, 2021
 
-Other    3 hrs 32 mins   ███████████████████████▓░   95.29 % 
-Text     7 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.42 % 
-Python   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.12 % 
+Other    2 hrs 55 mins   ████████████████████████░   96.50 % 
+Text     3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.13 % 
+Python   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.37 % 
 ```
 <!--END_SECTION:waka-->
 
