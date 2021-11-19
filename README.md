@@ -12,10 +12,10 @@
 ⏱ Weekly coding time
 <!--START_SECTION:waka-->
 ```text
-Week: 11 November, 2021 - 17 November, 2021
+Week: 12 November, 2021 - 18 November, 2021
 
-C        2 hrs 36 mins   ███████████████████▒░░░░░   77.73 % 
-Other    44 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.26 % 
+C        2 hrs 37 mins   ███████████████████▒░░░░░   77.86 % 
+Other    44 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.13 % 
 ```
 <!--END_SECTION:waka-->
 
