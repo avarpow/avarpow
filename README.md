@@ -12,12 +12,12 @@
 ⏱ Weekly coding time
 <!--START_SECTION:waka-->
 ```text
-Week: 18 November, 2021 - 24 November, 2021
+Week: 19 November, 2021 - 25 November, 2021
 
-JSON    14 mins         ██████████████▓░░░░░░░░░░   58.76 % 
-Other   7 mins          ███████▒░░░░░░░░░░░░░░░░░   29.60 % 
-C       1 min           █▒░░░░░░░░░░░░░░░░░░░░░░░   04.91 % 
-Text    1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   04.56 % 
+Python   39 mins         ███████████████▓░░░░░░░░░   62.20 % 
+JSON     14 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.52 % 
+Other    7 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.34 % 
+Text     1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.68 % 
 ```
 <!--END_SECTION:waka-->
 
