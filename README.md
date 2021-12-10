@@ -12,12 +12,13 @@
 ⏱ Weekly coding time
 <!--START_SECTION:waka-->
 ```text
-Week: 02 December, 2021 - 08 December, 2021
+Week: 03 December, 2021 - 09 December, 2021
 
-Other    9 hrs 57 mins   ████████████████▓░░░░░░░░   66.55 % 
-C++      4 hrs 50 mins   ████████░░░░░░░░░░░░░░░░░   32.35 % 
-Prolog   5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 % 
-Python   3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
+Other    10 hrs 22 mins  ███████████████▓░░░░░░░░░   63.07 % 
+C++      4 hrs 50 mins   ███████▒░░░░░░░░░░░░░░░░░   29.46 % 
+Python   43 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.46 % 
+Bash     23 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.41 % 
+Prolog   5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 % 
 ```
 <!--END_SECTION:waka-->
 
