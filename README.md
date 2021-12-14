@@ -12,9 +12,9 @@
 ⏱ Weekly coding time
 <!--START_SECTION:waka-->
 ```text
-Week: 06 December, 2021 - 12 December, 2021
+Week: 07 December, 2021 - 13 December, 2021
 
-Other    10 hrs 22 mins  █████████████████▓░░░░░░░   70.19 % 
+Other    10 hrs 22 mins  █████████████████▓░░░░░░░   70.15 % 
 C        2 hrs 15 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   15.25 % 
 C++      45 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.12 % 
 Python   43 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.96 % 
