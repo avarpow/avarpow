@@ -12,12 +12,13 @@
 ⏱ Weekly coding time
 <!--START_SECTION:waka-->
 ```text
-Week: 18 December, 2021 - 24 December, 2021
+Week: 19 December, 2021 - 25 December, 2021
 
-Other    4 hrs 24 mins   ██████████████████████░░░   87.46 % 
-C++      19 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.54 % 
-Python   13 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.45 % 
-SQL      4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.55 % 
+Other    4 hrs 24 mins   ██████████████▓░░░░░░░░░░   59.14 % 
+C++      2 hrs 3 mins    ███████░░░░░░░░░░░░░░░░░░   27.73 % 
+C        21 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.83 % 
+Bash     18 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.11 % 
+Python   13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.01 % 
 ```
 <!--END_SECTION:waka-->
 
