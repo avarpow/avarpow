@@ -12,12 +12,12 @@
 ⏱ Weekly coding time
 <!--START_SECTION:waka-->
 ```text
-Week: 23 December, 2021 - 29 December, 2021
+Week: 24 December, 2021 - 30 December, 2021
 
-C++          8 hrs 12 mins   █████████████████▓░░░░░░░   70.76 % 
-Bash         2 hrs 27 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.22 % 
-C            50 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.26 % 
-Git Config   5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.76 % 
+C++          8 hrs 23 mins   █████████████▓░░░░░░░░░░░   54.85 % 
+C            3 hrs 26 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.49 % 
+Bash         3 hrs 21 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.98 % 
+Git Config   5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
 ```
 <!--END_SECTION:waka-->
 
