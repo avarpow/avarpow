@@ -12,7 +12,7 @@
 ⏱ Weekly coding time
 <!--START_SECTION:waka-->
 ```text
-Week: 06 January, 2022 - 12 January, 2022
+Week: 07 January, 2022 - 13 January, 2022
 
 Cuda       2 hrs 51 mins   ████████░░░░░░░░░░░░░░░░░   32.42 % 
 C++        2 hrs 33 mins   ███████▒░░░░░░░░░░░░░░░░░   29.08 % 
