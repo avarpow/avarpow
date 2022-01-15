@@ -12,13 +12,13 @@
 ⏱ Weekly coding time
 <!--START_SECTION:waka-->
 ```text
-Week: 07 January, 2022 - 13 January, 2022
+Week: 08 January, 2022 - 14 January, 2022
 
-Cuda       2 hrs 51 mins   ████████░░░░░░░░░░░░░░░░░   32.42 % 
-C++        2 hrs 33 mins   ███████▒░░░░░░░░░░░░░░░░░   29.08 % 
-GLSL       2 hrs 5 mins    ██████░░░░░░░░░░░░░░░░░░░   23.73 % 
-Bash       29 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.67 % 
-Markdown   17 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.27 % 
+Cuda     2 hrs 48 mins   ████████▓░░░░░░░░░░░░░░░░   34.12 % 
+C++      2 hrs 33 mins   ███████▓░░░░░░░░░░░░░░░░░   30.93 % 
+GLSL     2 hrs 5 mins    ██████▒░░░░░░░░░░░░░░░░░░   25.31 % 
+Bash     29 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.04 % 
+Prolog   8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.79 % 
 ```
 <!--END_SECTION:waka-->
 
