@@ -12,9 +12,9 @@
 ⏱ Weekly coding time
 <!--START_SECTION:waka-->
 ```text
-Week: 13 January, 2022 - 19 January, 2022
+Week: 14 January, 2022 - 20 January, 2022
 
-
+Python   6 mins          █████████████████████▓░░░   86.18 % 
 ```
 <!--END_SECTION:waka-->
 
