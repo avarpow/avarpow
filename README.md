@@ -12,9 +12,13 @@
 ⏱ Weekly coding time
 <!--START_SECTION:waka-->
 ```text
-Week: 15 January, 2022 - 21 January, 2022
+Week: 16 January, 2022 - 22 January, 2022
 
-Python   6 mins          █████████████████████▓░░░   86.18 % 
+C          2 hrs 11 mins   █████████████████████░░░░   83.70 % 
+Other      7 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.05 % 
+C++        7 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.92 % 
+Python     6 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.30 % 
+Makefile   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.89 % 
 ```
 <!--END_SECTION:waka-->
 
