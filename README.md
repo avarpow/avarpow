@@ -12,7 +12,7 @@
 ⏱ Weekly coding time
 <!--START_SECTION:waka-->
 ```text
-Week: 17 January, 2022 - 23 January, 2022
+Week: 18 January, 2022 - 24 January, 2022
 
 C++        8 hrs 39 mins   █████████████████▓░░░░░░░   70.33 % 
 C          2 hrs 11 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.75 % 
