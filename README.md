@@ -12,13 +12,13 @@
 ⏱ Weekly coding time
 <!--START_SECTION:waka-->
 ```text
-Week: 21 January, 2022 - 27 January, 2022
+Week: 22 January, 2022 - 28 January, 2022
 
-C++        10 hrs 25 mins  ███████████████▒░░░░░░░░░   61.87 % 
-C          2 hrs 12 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.12 % 
-Markdown   1 hr 38 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.75 % 
-Python     1 hr 2 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.22 % 
-Other      52 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.16 % 
+C++        10 hrs 25 mins  ███████████████▓░░░░░░░░░   62.34 % 
+C          2 hrs 12 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.22 % 
+Markdown   1 hr 38 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.82 % 
+Python     56 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.60 % 
+Other      51 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.11 % 
 ```
 <!--END_SECTION:waka-->
 
