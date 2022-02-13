@@ -12,9 +12,7 @@
 ⏱ Weekly coding time
 <!--START_SECTION:waka-->
 ```text
-Week: 05 February, 2022 - 11 February, 2022
-
-
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
