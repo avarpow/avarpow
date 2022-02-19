@@ -12,11 +12,15 @@
 ⏱ Weekly coding time
 <!--START_SECTION:waka-->
 ```text
-Week: 11 February, 2022 - 17 February, 2022
+Week: 12 February, 2022 - 18 February, 2022
 
-Total: 0 secs
+Total: 47 mins
 
-Other   2 mins          █████████████████████████   100.00 % 
+C++      20 mins         ██████████▒░░░░░░░░░░░░░░   41.25 % 
+Cuda     13 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.98 % 
+JSON     5 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.81 % 
+Python   3 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.87 % 
+Other    3 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.65 % 
 ```
 <!--END_SECTION:waka-->
 
