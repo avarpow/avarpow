@@ -12,13 +12,13 @@
 ⏱ Weekly coding time
 <!--START_SECTION:waka-->
 ```text
-From: 17 February, 2022 - To: 24 February, 2022
+From: 19 February, 2022 - To: 26 February, 2022
 
-Python   2 hrs 12 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.41 % 
-C++      2 hrs 6 mins    ██████▒░░░░░░░░░░░░░░░░░░   25.30 % 
-Bash     1 hr 16 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   15.25 % 
-JSON     1 hr 3 mins     ███▒░░░░░░░░░░░░░░░░░░░░░   12.70 % 
-Cuda     34 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.82 % 
+Python   2 hrs 43 mins   █████████▓░░░░░░░░░░░░░░░   39.21 % 
+C++      1 hr 35 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.87 % 
+Bash     39 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.47 % 
+CMake    34 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.36 % 
+Cuda     34 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.24 % 
 ```
 <!--END_SECTION:waka-->
 
