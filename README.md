@@ -11,15 +11,17 @@
 
 ⏱ Weekly coding time
 <!--START_SECTION:waka-->
-```text
-From: 19 February, 2022 - To: 26 February, 2022
 
-Python   2 hrs 43 mins   █████████▓░░░░░░░░░░░░░░░   39.21 % 
-C++      1 hr 35 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.87 % 
-Bash     39 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.47 % 
-CMake    34 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.36 % 
-Cuda     34 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.24 % 
+```text
+From: 20 February 2022 - To: 27 February 2022
+
+Python            4 hrs 38 mins   ████████████████░░░░░░░░░   64.06 %
+C++               1 hr 8 mins     ████░░░░░░░░░░░░░░░░░░░░░   15.86 %
+Cuda              27 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.31 %
+Bash              18 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.31 %
+Other             13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.14 %
 ```
+
 <!--END_SECTION:waka-->
 
 [![avarpow's github stats](https://github-readme-stats.vercel.app/api?username=avarpow&count_private=true&show_icons=true&hide=issues&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
