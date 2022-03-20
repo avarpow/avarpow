@@ -13,10 +13,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 11 March 2022 - To: 18 March 2022
+From: 12 March 2022 - To: 19 March 2022
 
-Go         1 hr 51 mins    ████████████████████▓░░░░   83.18 %
-Markdown   22 mins         ████▒░░░░░░░░░░░░░░░░░░░░   16.82 %
+Go         51 mins         █████████████████▒░░░░░░░   69.21 %
+Markdown   22 mins         ███████▓░░░░░░░░░░░░░░░░░   30.20 %
+Other      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 %
 ```
 
 <!--END_SECTION:waka-->
