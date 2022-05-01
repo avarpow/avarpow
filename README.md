@@ -1,7 +1,7 @@
 ### Hi there 👋
 <!--I have been a GitHub member for [![Years Badge](https://badges.pufler.dev/years/avarpow)](https://badges.pufler.dev)-->
 - 🌱 I will earn a bachelor's degree in computer science in 2023.
-- 😄 I'm interested in Computer Graphics, High Performance Computing,Embedded Systems,Web design and Site Reliability Engineering.
+- 😄 I will go to Bytedance for an internship in July,2022.
 - 💬 Contact me by email avarpow@gmail.com
 - ⚡ Aiming for full stack.
 
