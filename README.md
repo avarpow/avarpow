@@ -13,11 +13,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 25 April 2022 - To: 02 May 2022
+From: 26 April 2022 - To: 03 May 2022
 
-Cuda         1 hr 8 mins     █████████░░░░░░░░░░░░░░░░   35.90 %
-TypeScript   51 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.83 %
-Other        38 mins         █████░░░░░░░░░░░░░░░░░░░░   20.00 %
+Cuda         1 hr 8 mins     ███████░░░░░░░░░░░░░░░░░░   28.56 %
+TypeScript   51 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.34 %
+Go           44 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.44 %
+Other        39 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.47 %
 ```
 
 <!--END_SECTION:waka-->
