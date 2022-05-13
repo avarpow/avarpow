@@ -13,11 +13,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 04 May 2022 - To: 11 May 2022
+From: 05 May 2022 - To: 12 May 2022
 
-Go             8 hrs 30 mins   ██████████████▒░░░░░░░░░░   57.51 %
-Python         4 hrs 17 mins   ███████▒░░░░░░░░░░░░░░░░░   28.94 %
-Other          59 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.66 %
+Python         4 hrs 17 mins   ██████████▓░░░░░░░░░░░░░░   42.23 %
+Other          2 hrs 52 mins   ███████░░░░░░░░░░░░░░░░░░   28.29 %
 ```
 
 <!--END_SECTION:waka-->
