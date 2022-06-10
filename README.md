@@ -13,7 +13,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 01 June 2022 - To: 08 June 2022
+From: 02 June 2022 - To: 09 June 2022
 
 Cuda       1 hr 39 mins    █████████████░░░░░░░░░░░░   52.00 %
 C          54 mins         ███████░░░░░░░░░░░░░░░░░░   28.17 %
