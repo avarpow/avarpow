@@ -13,7 +13,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 08 June 2022 - To: 15 June 2022
+From: 09 June 2022 - To: 16 June 2022
 
 Go           50 mins         ██████████▒░░░░░░░░░░░░░░   41.64 %
 Cuda         35 mins         ███████▒░░░░░░░░░░░░░░░░░   29.69 %
