@@ -13,13 +13,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 08 July 2022 - To: 15 July 2022
-
-Assembly         19 mins         ███████████░░░░░░░░░░░░░░   43.55 %
-Go               14 mins         ████████░░░░░░░░░░░░░░░░░   32.07 %
-C                10 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.15 %
-Text             0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.87 %
-ca65 assembler   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
