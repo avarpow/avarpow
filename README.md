@@ -13,7 +13,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+From: 18 July 2022 - To: 25 July 2022
+
+JSON         14 mins         █████████████▒░░░░░░░░░░░   53.47 %
+TypeScript   11 mins         ██████████▓░░░░░░░░░░░░░░   43.31 %
+CSS          0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.88 %
+XML          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 %
 ```
 
 <!--END_SECTION:waka-->
