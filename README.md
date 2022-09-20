@@ -13,7 +13,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+From: 12 September 2022 - To: 19 September 2022
+
+Go                56 mins         █████████████████████████   99.55 %
+YAML              0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 %
+SQL               0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
+Protocol Buffer   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
 ```
 
 <!--END_SECTION:waka-->
