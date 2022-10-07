@@ -13,13 +13,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 28 September 2022 - To: 05 October 2022
-
-Go       4 hrs 59 mins   █████████████████████████   99.43 %
-YAML     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 %
-go.mod   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
-C        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
-Text     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
