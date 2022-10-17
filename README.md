@@ -13,14 +13,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 08 October 2022 - To: 15 October 2022
+From: 09 October 2022 - To: 16 October 2022
 
-Go                14 hrs 7 mins   ██████████████████████▓░░   90.02 %
-YAML              1 hr 4 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.86 %
-Protocol Buffer   15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.64 %
-Text              4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 %
-protobuf          3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 %
-GitIgnore file    2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
+Go                8 hrs 52 mins   █████████████████████▓░░░   86.23 %
+YAML              55 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.01 %
+Protocol Buffer   15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.50 %
+Text              4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.80 %
+protobuf          3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 %
+GitIgnore file    2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 %
 ```
 
 <!--END_SECTION:waka-->
