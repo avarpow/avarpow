@@ -13,12 +13,9 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 23 October 2022 - To: 30 October 2022
+From: 24 October 2022 - To: 31 October 2022
 
-Go             1 hr 6 mins     ██████████████████████▒░░   89.94 %
-YAML           7 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.84 %
-protobuf       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
-Shell Script   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+Go   23 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
