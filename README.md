@@ -13,13 +13,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 06 November 2022 - To: 13 November 2022
+From: 07 November 2022 - To: 14 November 2022
 
-Go                2 hrs 22 mins   █████████████████████▒░░░   85.14 %
-Bash              22 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.32 %
-Protocol Buffer   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.79 %
-protobuf          1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.67 %
-GitIgnore file    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
+Go                3 hrs 37 mins   ████████████████████▒░░░░   81.34 %
+Bash              22 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.47 %
+YAML              12 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.73 %
+Shell Script      12 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.50 %
+Protocol Buffer   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 %
+protobuf          1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 %
 ```
 
 <!--END_SECTION:waka-->
