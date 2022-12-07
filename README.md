@@ -13,7 +13,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 28 November 2022 - To: 05 December 2022
+From: 29 November 2022 - To: 06 December 2022
 
 Go                1 hr 9 mins     █████████████████████░░░░   84.20 %
 Bash              11 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.36 %
