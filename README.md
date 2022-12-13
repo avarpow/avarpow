@@ -13,12 +13,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 04 December 2022 - To: 11 December 2022
-
-Go                44 mins         ███████████████████▒░░░░░   77.17 %
-Bash              11 mins         █████▒░░░░░░░░░░░░░░░░░░░   20.75 %
-protobuf          0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.33 %
-Protocol Buffer   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.75 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
