@@ -13,7 +13,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 08 January 2023 - To: 15 January 2023
+From: 09 January 2023 - To: 16 January 2023
 
 Go   1 hr 19 mins    █████████████████████████   100.00 %
 ```
