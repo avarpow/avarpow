@@ -13,10 +13,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 21 January 2023 - To: 28 January 2023
+From: 22 January 2023 - To: 29 January 2023
 
-Go       1 hr 27 mins    █████████████████████████   99.89 %
-go.mod   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
+Go               4 hrs 52 mins   ██████████████████████▒░░   89.95 %
+Shell Script     18 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.72 %
+Bash             11 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.68 %
+YAML             1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 %
+go.mod           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
 ```
 
 <!--END_SECTION:waka-->
