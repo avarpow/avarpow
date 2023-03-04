@@ -13,12 +13,13 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 23 February 2023 - To: 02 March 2023
+From: 24 February 2023 - To: 03 March 2023
 
-Go               13 hrs 47 mins  ██████████████████████░░░   87.85 %
-YAML             1 hr 45 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   11.16 %
-GitIgnore file   9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.99 %
-Text             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+Go             16 hrs 13 mins  ██████████████████████▒░░   89.80 %
+YAML           1 hr 43 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.51 %
+Shell Script   7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 %
+Bash           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+Text           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
