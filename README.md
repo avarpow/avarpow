@@ -13,9 +13,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 03 April 2023 - To: 10 April 2023
+From: 04 April 2023 - To: 11 April 2023
 
-Go   46 mins         █████████████████████████   100.00 %
+Go         3 hrs 16 mins   █████████████████████░░░░   83.45 %
+YAML       31 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.48 %
+Python     4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.12 %
+textmate   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.96 %
 ```
 
 <!--END_SECTION:waka-->
