@@ -13,9 +13,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 02 May 2023 - To: 09 May 2023
+From: 03 May 2023 - To: 10 May 2023
 
-Go   3 hrs 40 mins   █████████████████████████   100.00 %
+Go     6 hrs 29 mins   ███████████████████████▒░   93.33 %
+YAML   27 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.67 %
 ```
 
 <!--END_SECTION:waka-->
