@@ -12,12 +12,14 @@
 ⏱ Weekly coding time
 <!--START_SECTION:waka-->
 
-```text
-From: 25 May 2023 - To: 01 June 2023
+```txt
+From: 26 May 2023 - To: 02 June 2023
 
-Go       1 hr 15 mins    ███████████████████████▓░   94.99 %
-YAML     3 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.82 %
-go.mod   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
+Go             3 hrs 7 mins    █████████████████████░░░░   84.43 %
+JSON           23 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.76 %
+YAML           9 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 %
+Shell Script   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 %
+Text           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
 ```
 
 <!--END_SECTION:waka-->
