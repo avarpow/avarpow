@@ -13,7 +13,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 15 June 2023 - To: 22 June 2023
+From: 16 June 2023 - To: 23 June 2023
 
 Go                1 hr 33 mins    █████████████▓░░░░░░░░░░░   54.96 %
 Bash              51 mins         ███████▓░░░░░░░░░░░░░░░░░   30.18 %
