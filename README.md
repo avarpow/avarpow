@@ -13,7 +13,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 January 2024 - To: 20 January 2024
+From: 14 January 2024 - To: 21 January 2024
 
 Other    1 hr 27 mins    ██████████████████░░░░░░░   72.27 %
 CSV      17 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.46 %
