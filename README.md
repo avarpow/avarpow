@@ -13,13 +13,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 23 January 2024 - To: 30 January 2024
+From: 24 January 2024 - To: 31 January 2024
 
-JSON              36 mins         █████████░░░░░░░░░░░░░░░░   36.01 %
-Other             24 mins         ██████░░░░░░░░░░░░░░░░░░░   24.43 %
-Python            21 mins         █████▒░░░░░░░░░░░░░░░░░░░   20.84 %
-CSV               12 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.64 %
-Protocol Buffer   4 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.94 %
+JSON              36 mins         █████████▓░░░░░░░░░░░░░░░   38.26 %
+Other             24 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.96 %
+Python            13 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.37 %
+CSV               12 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.43 %
+Protocol Buffer   4 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.18 %
 ```
 
 <!--END_SECTION:waka-->
