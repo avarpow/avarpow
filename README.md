@@ -13,11 +13,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 25 March 2024 - To: 01 April 2024
+From: 26 March 2024 - To: 02 April 2024
 
-Other             2 hrs 48 mins   ████████████████████▓░░░░   82.15 %
-C++               35 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.57 %
-Protocol Buffer   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 %
+Other             2 hrs 58 mins   ████████████████████▓░░░░   83.03 %
+C++               35 mins         ████▒░░░░░░░░░░░░░░░░░░░░   16.71 %
+Protocol Buffer   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
 ```
 
 <!--END_SECTION:waka-->
