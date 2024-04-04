@@ -13,11 +13,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 26 March 2024 - To: 02 April 2024
+From: 27 March 2024 - To: 03 April 2024
 
-Other             2 hrs 58 mins   ████████████████████▓░░░░   83.03 %
-C++               35 mins         ████▒░░░░░░░░░░░░░░░░░░░░   16.71 %
-Protocol Buffer   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
+Other   2 hrs 20 mins   █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
